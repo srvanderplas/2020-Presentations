@@ -1,0 +1,44 @@
+.pull-left{
+  float: left;
+  width: 50%;
+}
+.pull-right{
+  float: right;
+  width: 50%;
+}
+
+.largish{font-size:110%;}
+.reg{font-size:100%;}
+
+.tiny{font-size:65%;}
+
+
+.remark-slide table.blank {
+  margin:0;
+  border-top:0;
+  border-bottom:0;
+  background-color:#FFFFFF;
+}
+.remark-slide table.blank tr {
+  background-color:#FFFFFF;
+}
+
+.remark-slide table tr.blank {
+  background-color:#FFFFFF;
+}
+
+
+.bottom,.footer {
+  position: absolute;
+  bottom: 3px;
+  width: 100%;
+  font-size: 50%;
+}
+
+.underline {
+  border-bottom:1px solid black;display:inline-block;
+}
+
+.hidden{
+  visibility:hidden;
+}
